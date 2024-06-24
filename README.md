@@ -36,8 +36,13 @@ Open the project in Visual Studio or your preferred VB.NET development environme
 
 Build and run the application in your development environment.
 
+![home page.jpeg](https://github.com/vedanshi0512/slidely-form-app-frontend/blob/master/home%20page.jpeg)
+
 # Functionality
 **Create Submission Form**
+
+![Create Submission](https://github.com/vedanshi0512/slidely-form-app-frontend/blob/master/create%20submission.jpeg)
+
 
 *Fields:*
 
@@ -61,6 +66,8 @@ Build and run the application in your development environment.
 
 -View Submissions Form
 
+![View Submission](https://github.com/vedanshi0512/slidely-form-app-frontend/blob/master/view%20submission%20page.jpeg)
+
 *Displays:*
 -List of all submissions
 
@@ -72,6 +79,8 @@ Next,
 Delete,
 Edit.
 
+![Delete Submission](https://github.com/vedanshi0512/slidely-form-app-frontend/blob/master/delete%20submission.jpeg)
+![Edit Submission](https://github.com/vedanshi0512/slidely-form-app-frontend/blob/master/edit%20submission.jpeg)
 
 # Flowchart
 
